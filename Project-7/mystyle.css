@@ -89,3 +89,11 @@
     article{
         width: 800px;
     }
+    header{
+        width: 900px;
+        height:200px;
+        background-color: rgb(211, 111, 177);
+    }
+    .instructions {
+        font-style:italic;
+    }
